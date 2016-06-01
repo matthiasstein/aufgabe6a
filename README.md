@@ -1,7 +1,8 @@
 # KSwe SoSe 2016 - Aufgabe 6a
 
 Aufgabe ist es eine Android-App zu entwickeln, welche Daten über die
-[Geodata API](http://geoapi-kswe2016.rhcloud.com/) abruft und visualisiert. Zur Visualisierung soll die `GoogleMap` View genutzt werden.
+[Geodata API](http://geoapi-kswe2016.rhcloud.com/) abruft und visualisiert.
+Zur Visualisierung soll die `GoogleMap` View genutzt werden.
 
 Die App sollte dann so ähnlich wie im folgenden Screenshot die Daten darstellen:
 
@@ -18,7 +19,8 @@ Nach dem erfolgreichen Setup soll die
 [Geodata API](http://geoapi-kswe2016.rhcloud.com/) abgerufen werden und die Daten
 als `Marker` visualisiert werden. Nutze zunächst vorgegebene Werte für Stadt
 und Land. Zur Abfrage via HTTP soll
-[Volley]() genutzt werden. Volley kann in die `build.gradle` der App eingebunden
+[Volley](https://developer.android.com/training/volley/index.html) genutzt werden.
+Volley kann in die `build.gradle` der App eingebunden
 werden:
 
 ```
