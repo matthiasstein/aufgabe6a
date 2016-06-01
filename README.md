@@ -52,6 +52,14 @@ Beispiel:
 
 ![WeatherMapC](android-weather-map_c.png)
 
+## Alternative zu Google Maps API
+
+Wer nicht die Google Maps API nutzen möchte (z.B. verlangt diese, dass die
+Google Play Services installiert sind) kann alternativ das
+[Mapbox Android SDK](https://www.mapbox.com/android-sdk/)
+nutzen. Es bietet eine nahezu deckungsgleiche API, muss nur in der Konfiguration
+anders behandelt werden.
+
 ## Veröffentlichung
 
 Stelle deine beiden Projekte auf GitHub online!
